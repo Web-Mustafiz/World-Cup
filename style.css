@@ -153,6 +153,17 @@ body {
   text-align: center;
 }
 
+.foot-nav li a i{
+  font-size: 30px;
+}
+
+.foot-nav li a:hover i {
+  color: orangered;
+}
+
+
+
+
 /* --------------------------- 
   Responsive Design for Tablet
 ------------------------------*/
